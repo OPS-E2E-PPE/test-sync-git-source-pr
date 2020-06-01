@@ -4,3 +4,4 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 badfndnklfnlkadsnfkasdnfa
 jkldjfaldksjlka;sdjlasdjfalsd;kfjlaksdj
 test merge conflict
+conflict
