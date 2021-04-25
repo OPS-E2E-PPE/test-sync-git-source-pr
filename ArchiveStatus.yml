@@ -8,7 +8,7 @@ items:
       - typeScript
     type: type alias
     summary: >-
-      Defines values for ArchiveStatus.
+      Defines values for ArchiveStatus. small name case file.
 
       Possible values include: 'rehydrate-pending-to-hot',
       'rehydrate-pending-to-cool'
