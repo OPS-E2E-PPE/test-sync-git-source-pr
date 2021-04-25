@@ -8,7 +8,7 @@ items:
       - typeScript
     type: type alias
     summary: >-
-      Defines values for ArchiveStatus. test.
+      Defines values for ArchiveStatus. test. big name case file.
 
       Possible values include: 'rehydrate-pending-to-hot',
       'rehydrate-pending-to-cool'
